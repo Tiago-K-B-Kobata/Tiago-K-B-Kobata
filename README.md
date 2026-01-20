@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Tiago Kobata!
 
-- 🌱 Studying Java, Spring, Typescript, Rust
+- 🌱 Studying Embedded C
 - 📫 Contact me by email: tiagokobata00@gmail.com
 - ⚡ Fun fact: I'm a weeb. <a href="https://myanimelist.net/profile/TiagoKobata" target="_blank"> Check here my good taste</a>
 							
