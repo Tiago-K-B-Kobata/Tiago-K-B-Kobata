@@ -2,7 +2,6 @@
 
 - 🌱 Studying Embedded C
 - 📫 Contact me by email: tiagokobata00@gmail.com
-- ⚡ Fun fact: I'm a weeb. <a href="https://myanimelist.net/profile/TiagoKobata" target="_blank"> Check here my good taste</a>
 							
  <img align="center" height="100" width="420" src='https://www.codewars.com/users/TKK000/badges/large'>
 
